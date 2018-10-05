@@ -27,7 +27,7 @@ p {
 
 .header, #designed-ny {
   background-image: url(../images/the-flatiron-building.png);
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
